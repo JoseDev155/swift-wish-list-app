@@ -1,0 +1,5 @@
+# Basic .gitignore template
+.DS_Store
+build/
+DerivedData/
+*.xcuserdata
